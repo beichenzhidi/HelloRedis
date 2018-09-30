@@ -1,1 +1,4 @@
 it's a new devdev.txt
+git add devdev.txt
+git commit -m 'add devdev.txt'
+git push origin
