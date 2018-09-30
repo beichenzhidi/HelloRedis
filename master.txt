@@ -2,3 +2,4 @@ it's a master repository
 to do now
 git remote add origin
 git push --set-upstream origin master
+git push origin dev
