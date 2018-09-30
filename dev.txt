@@ -3,3 +3,4 @@ now let's go
 git add dev.txt
 git commit -m 'add dev.txt'
 git push
+git push origin
