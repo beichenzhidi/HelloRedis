@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Now it's a first one to run
+=======
+a new file
+>>>>>>> redisconn
